@@ -1,4 +1,4 @@
-                                                                                                        Sales and Finance Analysis Project
+                                         Sales and Finance Analysis Project
       Project Overview
 This project aims to empower businesses to monitor and evaluate their sales and financial performance through comprehensive analysis and reporting. By creating detailed customer performance reports and conducting comparisons between market performance and sales targets, we provide actionable insights that help businesses identify sales patterns, track key performance indicators (KPIs), and make informed decisions.
 Objectives
